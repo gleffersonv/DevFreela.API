@@ -19,7 +19,7 @@ API DevFreela
   
   <img src="https://img.shields.io/github/forks/gleffersonv/DevFreela?label=forks&message=MIT&color=3793E8&labelColor=06187B" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/gleffersonv/DevFreelae?label=stars&message=MIT&color=3793E8&labelColor=06187B " alt="Stars">
+  <img src="https://img.shields.io/github/stars/gleffersonv/DevFreela?label=stars&message=MIT&color=3793E8&labelColor=06187B " alt="Stars">
 </p>
 
 <p align="center">
@@ -46,9 +46,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Testes Unitários
 - Mensageria com RabbitMQ
 
-## 🚧 Projeto
+## 🚧 Funcionalidades
 
-Live Preview: <a href="http://gleffersonvicente.com.br/wireframe/">Wireframe</a>
+- Cadastro, Listagem, Detalhes, Atualização e Remoção de Projetos
+- Início e Conclusão de Projetos
+- Cadastro de Comentários em Projetos
+- Cadastro, Detalhes e Login de Usuários
 
 ## 🎨 Inspiração:
 
