@@ -3,7 +3,9 @@ API DevFreela
 </h1>
 
 <p align="center">
-  <img alt="" src="https://user-images.githubusercontent.com/62262162/181845432-ce201b8c-77fa-4a30-8eae-190b229377a9.jpg" width="100%">
+  ![128607463-b449e0ca-1b39-4cce-9b8e-38fb1fa469e2](https://github.com/gleffersonv/DevFreela/assets/62262162/c1a8cf94-e1a9-4fe8-b670-0f512f3f48bc)
+
+  <img alt="" src="https://github.com/gleffersonv/DevFreela/assets/62262162/c1a8cf94-e1a9-4fe8-b670-0f512f3f48bc.jpg" width="100%">
   <img alt="" src="https://user-images.githubusercontent.com/62262162/181845268-a1c7dc5b-8943-450c-a20d-bea310c3172a.jpg" width="100%">
   <img alt="" src="https://user-images.githubusercontent.com/62262162/181845269-62fa8d97-12f4-4487-8e18-49665cd315f7.jpg" width="100%">
 </p>
