@@ -32,7 +32,7 @@ DevFreela.API
 
 ## Descrição
 
-O projeto eSports é uma plataforma revolucionária de comunicação para gamers, permitindo a conexão entre jogadores independentemente da localização geográfica. Os usuários podem cadastrar seus perfis, incluindo nickname, jogo preferido e disponibilidade de horários. Desenvolvido com tecnologias de ponta, como React.js, TypeScript, Node.js e Prisma, o projeto proporciona uma experiência fluida e eficiente. O layout das telas foi concebido pela equipe da Rocketseat, utilizando a ferramenta Figma para design de interfaces. Meu foco e expertise estão na versão web do projeto, onde busquei aprimorar minhas habilidades.
+O Projeto Devfreela.API é uma inovadora plataforma de busca de projetos que tem como objetivo facilitar a conexão direta entre clientes e desenvolvedores, eliminando intermediários e reduzindo os custos de desenvolvimento. O foco é assegurar não apenas um retorno financeiro sólido, mas também o devido reconhecimento e valorização do trabalho dos desenvolvedores. Este projeto representa um passo significativo na otimização do processo de desenvolvimento e na promoção de uma relação mais transparente e benéfica entre as partes envolvidas.
 
 ## 🚀 Tecnologias
 
